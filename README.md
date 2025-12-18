@@ -24,7 +24,7 @@ A modern, full-featured news application built with React, Vite, and Tailwind CS
 1. **Clone the repository**
 ```bash
 git clone https://github.com/MAHESHDHOLE1999/News_Application.git
-cd NewDataApplication
+cd NewsDataApplication
 ```
 
 2. **Install dependencies**
